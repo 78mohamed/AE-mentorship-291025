@@ -35,11 +35,18 @@ archiving all log files.
 
 ## manage time diagrams
 
-# class diagram
+### class diagram
+![Class diagram](manage%20time%20class%20digram.jpg)
 
-# sequence diagram
+### sequence diagram
+#### employee sequence diagram
+![Sequence diagram employee](manage-diagram-sequence-employee.jpg)
 
-# flow chart
+#### manager sequence diagram
+![Sequence diagram manager](manage-diagram-sequence-manager.jpg)
+
+### flow chart
+![flow chart](manage%20time%20flow%20chart.jpg)
 
 ## manage time pseudocode
 ``` pseudocode
