@@ -42,3 +42,17 @@ archiving all log files.
 # flow chart
 
 ## manage time pseudocode
+``` pseudocode
+Enter your credentials
+If credentials are right, show the employee status data
+Else return invalid credentials
+Submit a request(catalof, commit,date)
+Validate the request
+If validation failed, return the failure reason
+Else return pending review and send an email to the appropriate manager.
+If the user is a manager
+show request appending respond
+Respond to the request and send an email to the employee
+If user is not manager
+END
+```
